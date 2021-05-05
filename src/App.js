@@ -1,5 +1,5 @@
 import './App.css';
-import GoogleMap from '.componenets/GoogleMap'
+import GoogleMap from './components/GoogleMap'
 
 function App() {
   return (
